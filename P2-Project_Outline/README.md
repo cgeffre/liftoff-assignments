@@ -24,11 +24,11 @@ I plan to create a workout builder for high-intensity interval training sessions
 - Hibernate
 - Thymeleaf
 - Deployment platform and database (currently using Heroku with ClearDB); possibly get experience with AWS or Azure
-- Need to research possible other tools or approaches needed for exercise selection interface
+- Need to research possible other tools or approaches needed for exercise selection and edit interface
 - Learn what is needed to import default information for a user
 
 ### What I'll Have to Learn
-Currently, my biggest conceptual hurdle is how to substantially revamp the exercise selection and workout editing processes. This is critical to improving the application in its current form, but will look very different from what I have done before. I also may want to learn AWS or Azure to get experience with a more popular deployment platform. Expanding up on my knowledge of authentication and authorization will be another major lesson.
+Currently, my biggest conceptual hurdle is how to substantially revamp the exercise selection and workout editing processes. This is critical to improving the application in its current form, but will different from what I have done before. I also may want to learn AWS or Azure to get experience with a more popular deployment platform. Expanding up on my knowledge of authentication and authorization will be another major lesson. I want to learn how to implement an alert sound to my timer when it restarts on each new exercise as well.
 
 ### Project Tracker
 https://trello.com/b/t6j9ndf9/liftoff-project
