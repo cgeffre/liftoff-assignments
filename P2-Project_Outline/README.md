@@ -7,28 +7,34 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-I plan to create a workout builder for high-intensity interval training sessions. This application will allow users to create a list of exercises, use those exercises to create workouts, and then be led through the customized workout of their choice. This project was started between the final lessons of LC101 and Liftoff, but should I continue with it, there are several additional features I would like to add, including the ability to login, setting up the database so a user can have and maintain their own private exercises and workouts, add the ability to import a default list of exercises and a sample workout for users, create a more user friendly method of selecting exercises for a workout (including adding multiple instances of an exercise without instantiating several objects of the same name), and add the ability to create a custom order for exercises (in addition to being able to use the default randomizer).
+We are going to create a Word of the Day application that teaches users new words and also allows them to view the word in Spanish as well. This will connect to a dictionray and allow users to interact with a communithy of learners. Users will be able to view the Word of the Day, provide input on if they learned something useful through a tracked reaction feature, comment on the word of the day (including edit and delete features), save words to a personal deck, share their decks with other users, and use a flashcard feature with their decks to study words that they've saved.
 
 ### Features
-- Create custom list of exercises
-- Create workouts with selected exercises and set duration of workout and rest periods
-- Edit and delete exercises and workouts
-- Be led through the workout that is chosen
-- Log in and have private view of own exercises and workouts
+- Users can create, log into, and delete an account
+- Users can view the Word of the Day via an API
+- Users can react to the Word of the Day in a way that is publicly aggregated and visible
+- Users can comment on the Word of the Day to ask questions or have discussions
+- Users can save their favorite words to a deck
+- Users can share their deck with other learners
+- Users can use their decks as randomized flashcards and then check their answers
 
 ### Technologies
 - Java
 - JavaScript
-- Spring Boot
+- HTML/CSS
+- Spring Boot?
+- Thymeleaf?
+- APIs
 - MySQL
 - Hibernate
-- Thymeleaf
-- Deployment platform and database (currently using Heroku with ClearDB); possibly get experience with AWS or Azure
-- Need to research possible other tools or approaches needed for exercise selection and edit interface
-- Learn what is needed to import default information for a user
+- Deployment platform
+- Graphic design software
 
 ### What I'll Have to Learn
-Currently, my biggest conceptual hurdle is how to substantially revamp the exercise selection and workout editing processes. This is critical to improving the application in its current form, but will different from what I have done before. I also may want to learn AWS or Azure to get experience with a more popular deployment platform. Expanding up on my knowledge of authentication and authorization will be another major lesson. I want to learn how to implement an alert sound to my timer when it restarts on each new exercise as well.
+- API integration
+- Serious JSON review
+- More on user authentication and authorization
+- Possibly new deployment platform and database (AWS? Azure?)
 
 ### Project Tracker
-https://trello.com/b/t6j9ndf9/liftoff-project
+https://trello.com/b/iicf1stg/tbd-application
