@@ -22,8 +22,8 @@ We are going to create a Word of the Day application that teaches users new word
 - Java
 - JavaScript
 - HTML/CSS
-- Spring Boot?
-- Thymeleaf?
+- Spring Boot
+- Thymeleaf
 - APIs
 - MySQL
 - Hibernate
